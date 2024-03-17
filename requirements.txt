@@ -1,0 +1,7 @@
+matplotlib==3.8.3
+pandas==2.2.1
+seaborn==0.13.2
+streamlit==1.31.1
+
+https://maulidina.streamlit.app/
+https://github.com/mldinaalni/kesekiankalinyaanalisisdata/blob/main/README.md
